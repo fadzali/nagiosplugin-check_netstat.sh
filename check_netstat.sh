@@ -6,6 +6,8 @@
 # Support Forum at https://support.nagios.com/forum/
 # Feedback/recommendations/tips can be sent to
 # Robert Kennedy (Clint) rkennedy@nagios.com
+# fadzali bakar edited netstat an to tn for correction count - line 52
+
 
 # Help menu
 print_help() {
